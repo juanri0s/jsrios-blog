@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba4e9802-830c-4b88-9523-ef93b346fc0e/deploy-status)](https://app.netlify.com/sites/jsrios/deploys)
