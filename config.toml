@@ -2,4 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "jsrios"
 theme = "elephants"
-sitename = "jsrios"
+[params]
+  author = "Juan Rios"
+  sitename = "jsrios"
+
